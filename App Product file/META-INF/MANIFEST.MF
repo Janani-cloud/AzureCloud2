@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Pega-Codeset-Patch: 
+Engine-Version: 08-04-01
+Pega-Codeset-Version: 06-01-01
+ArtifactName: AzureDev
+Synchronizable: false
+ArtifactVersion: 01.01.01
+Type: Product
+Product-Creation-Date: 2020-Nov-12 00:00:00
+Version: 01.01.01
+PRPC-Engine: 8.4.0 PRPC-8.4.0-237 ()
+Operator: naganimisha.rachapudi@lntinfotech.com
+ArtifactType: product
+Pega-Archive-Type: ApplicationBundle
+Name: AzureDev
+Archive-Type: PegaArchive
+Export-Date: 2020-Nov-23 14:18:35
+Pega-Codeset-Name: Customer
+Instance-Count: 193
+
+Name: FileMetadata
+
